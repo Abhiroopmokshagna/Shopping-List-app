@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">shopping-list</string>
+    <string name="add_item">Add item</string>
+    <string name="select_an_item">Select item/items</string>
+    <string name="milk">milk</string>
+    <string name="bread">bread</string>
+    <string name="jam">jam</string>
+    <string name="ground_nuts">ground nuts</string>
+    <string name="palmolien">palmolien</string>
+    <string name="tooth_brush">tooth brush</string>
+    <string name="tooth_paste">Tooth-paste</string>
+    <string name="soap">Soap</string>
+    <string name="ice_cream">Ice-cream</string>
+    <string name="okay">OKAY</string>
+    <string name="store_name">spencer\'s near Guntur, Andhra Pradesh</string>
+    <string name="open_store_location">Open Store Location</string>
+</resources>
